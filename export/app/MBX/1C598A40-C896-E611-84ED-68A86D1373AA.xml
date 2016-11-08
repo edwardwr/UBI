@@ -1,0 +1,105 @@
+﻿<mockup version="4.2" platform="MtMobile" defaultW="375" defaultH="667" from="FmLocal" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" minAllowVersion="4.1" ID="1C598A40-C896-E611-84ED-68A86D1373AA" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="5E25E243-C896-E611-84ED-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="0" w="375" h="65" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="FC03F47B-C596-E611-84ED-68A86D1373AA" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E7%9A%84%E7%88%B1%E8%BD%A6">
+            <area shape="0" alt="" ID="{1028E243-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,65)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{A628E243-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,65)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>C77F89AFB6C17C3BDE8422BB0CFDC5D2.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="CC388358-C896-E611-84ED-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="65" w="375" h="285" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="DA36D874-C896-E611-84ED-68A86D1373AA" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E7%9A%84%E8%AF%84%E5%88%862">
+            <area shape="0" alt="" ID="{603B8358-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,285)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{F63B8358-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,285)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>D8451211463608A629C942D7EE84CA8F.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="689DCD62-C896-E611-84ED-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="350" w="375" h="250" measuredW="150" measuredH="150" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="DA36D874-C896-E611-84ED-68A86D1373AA" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E7%9A%84%E8%AF%84%E5%88%862">
+            <area shape="0" alt="" ID="{B8A2CD62-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,250)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{94A3CD62-C896-E611-84ED-68A86D1373AA}" coords="(0,0,375,250)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>A4D34E7233A0CF61F740BACBF6BF1B80.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

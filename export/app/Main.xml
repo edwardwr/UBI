@@ -1,0 +1,170 @@
+﻿<project version="2.1" name="项目" ID="F4CFCF80-E095-E611-94F5-68A86D1373AA" addTime="2016-10-19">
+  <params>
+    <pageParam version="4.2" minAllowVersion="4.1"/>
+    <projectParam version="2.1" minAllowVersion="2.0" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="0" fontFamily="" from="FmLocal"/>
+  </params>
+  <modules>
+    <page name="登录页" ID="C2EDCF80-E095-E611-94F5-68A86D1373AA" expanded="True" code="R4PHZ6GnMZ" thumbCode="R4PHZ6GnMZ" status="psWhite">
+      <images>
+        <image key="F5BCC0E46D3B52919F46E8F8800384C2.png"/>
+        <image key="A4D875DB803037623AE2D6B56FABF4A5.png"/>
+        <image key="BA92F969E45E0E53A5F00CBB86B10254.png"/>
+        <image key="2EFEA12B020952BA769F79BB3415B680.png"/>
+      </images>
+    </page>
+    <page name="首页" ID="76C3B777-E195-E611-94F5-68A86D1373AA" expanded="True" code="kHiXsW2O11" thumbCode="kHiXsW2O11" status="psWhite" isLastOpen="True">
+      <images>
+        <image key="4CBDEF0CF781DB61A477EF9A88EB50C0.png"/>
+        <image key="F40945AC69CFE9B920DA28FC843A38E2.png"/>
+        <image key="A74F5CB40EFFCB1EF68D65B9998C7E4C.png"/>
+        <image key="7EAAF912CA62F0E831395227247E4959.png"/>
+        <image key="0A3B29F18891E9A454D4726A5B27F7C8.png"/>
+        <image key="3505AF051EC47A7BAFEF0C68275A7F7C.png"/>
+        <image key="1A1D01E0E5E571722A46562BE9063886.png"/>
+        <image key="35821ED8ACD4A6145830C70D85AC4345.png"/>
+        <image key="E3A2DF696C7B88C818B6E2BC0F203FAE.png"/>
+        <image key="FC01F9FD03C023F82FE02261EC59A0C1.png"/>
+        <image key="B38B3860E67D13A6B30469274B86536B.png"/>
+        <image key="2CD6C6710F1F0063786C8A5A4DBD3B8F.png"/>
+        <image key="6E61F118E8C6E9CFE86F9CD7FD672A61.png"/>
+        <image key="37663FD731496B9C1AE793442FBE1AD9.png"/>
+        <image key="0CC22B20B049044501FE6291C3D87F8E.png"/>
+        <image key="06E14F0201477BCF0D9E0EF7C91451C9.png"/>
+        <image key="2E9610B4414D6B85D6C1CC9A53A57008.png"/>
+      </images>
+    </page>
+    <page name="我的爱车" ID="FC03F47B-C596-E611-84ED-68A86D1373AA" expanded="True" code="wPKlhdNITl" thumbCode="wPKlhdNITl" status="psWhite">
+      <images>
+        <image key="3C02E31B5B0E823C2D1FC504FFCF9B56.png"/>
+        <image key="ED050722C4FDDCBEA7034C5512EA0CE8.png"/>
+        <image key="A754A0D9E98F451A47E0ECA449A26505.png"/>
+        <image key="8091EEBFA6927AB6B084C42D636CC74D.png"/>
+        <image key="0353089221365A082EE1A239BBE51C82.png"/>
+        <image key="7BB9DC157BEB82575A52FADC1FFACAF7.png"/>
+      </images>
+    </page>
+    <page name="我的行程" ID="4C418FC0-C696-E611-84ED-68A86D1373AA" expanded="True" code="GqlyMBPINg" thumbCode="GqlyMBPINg" status="psWhite">
+      <images>
+        <image key="CB8DE8660D18E6CB5F7587DB34621FAA.png"/>
+        <image key="ED050722C4FDDCBEA7034C5512EA0CE8.png"/>
+        <image key="931D50A202A30AAB2E00116D069D9D52.png"/>
+        <image key="AA4EAEABAD1F79633938FDAE3218F228.png"/>
+        <image key="D8B6DED918F7722DF64686D681EEBD93.png"/>
+        <image key="98FAE145BCFAE1DC2629773AF4904B86.png"/>
+      </images>
+    </page>
+    <page name="保养提醒" ID="48ED637F-C796-E611-84ED-68A86D1373AA" expanded="True" code="5UwfEmGpUP" thumbCode="5UwfEmGpUP" status="psWhite">
+      <images>
+        <image key="ED050722C4FDDCBEA7034C5512EA0CE8.png"/>
+        <image key="B050AABF5FD37845E4285F23F08A75EC.png"/>
+        <image key="30511074C0D27E814A442EBC9D3146B1.png"/>
+        <image key="5419745CD2DB26B031BD3E2ABFA346F9.png"/>
+      </images>
+    </page>
+    <page name="服务预约" ID="DA031CDD-C796-E611-84ED-68A86D1373AA" expanded="True" code="meriEhD6YK" thumbCode="meriEhD6YK" status="psWhite">
+      <images>
+        <image key="B410D914DB162BB37327E97A2FF5146F.png"/>
+        <image key="5D2639CF4EEEAF02F8CABFE644467155.png"/>
+        <image key="A1CA76EF95CB87B06525803677D844CC.png"/>
+      </images>
+    </page>
+    <page name="爱车保险" ID="6C1B6D0F-C896-E611-84ED-68A86D1373AA" expanded="True" code="rrdTCUf6ds" thumbCode="rrdTCUf6ds" status="psWhite">
+      <images>
+        <image key="DEFAE6940864312CAE7A1D09AE04AC10.png"/>
+        <image key="6149CABDB585B77E9FBE2C965B4FA910.png"/>
+        <image key="F2572A0AB4CDAB87341A44CCE978A032.png"/>
+      </images>
+    </page>
+    <page name="我的评分" ID="1C598A40-C896-E611-84ED-68A86D1373AA" expanded="True" code="8WqXlZrCZ6" thumbCode="8WqXlZrCZ6" status="psWhite">
+      <images>
+        <image key="C77F89AFB6C17C3BDE8422BB0CFDC5D2.png"/>
+        <image key="D8451211463608A629C942D7EE84CA8F.png"/>
+        <image key="A4D34E7233A0CF61F740BACBF6BF1B80.png"/>
+      </images>
+    </page>
+    <page name="我的评分2" ID="DA36D874-C896-E611-84ED-68A86D1373AA" expanded="True" code="Rf72LkLrtC" thumbCode="Rf72LkLrtC" status="psWhite">
+      <images>
+        <image key="3AF82FD1416248AD072F2D991C3AA8A2.png"/>
+        <image key="C77F89AFB6C17C3BDE8422BB0CFDC5D2.png"/>
+        <image key="0C7FFC8605DD6353051A3E2BCC91F8C5.png"/>
+        <image key="32C99A74068AA61B0BD3BC1512D73D38.png"/>
+        <image key="20FDD9BDB82947436BEEA88B3CF48170.png"/>
+        <image key="A44344A7BB3F541EF20CB6C0E6640A94.png"/>
+        <image key="33E6A2FB2732E6A7056194B505DEFCC3.png"/>
+        <image key="E6A3820938014C83BC568326677FCE0F.png"/>
+        <image key="2408E9FBD1CD92E08BEE9878C11B8E1C.png"/>
+        <image key="346320E864530CC52B2D10C2E6872521.png"/>
+        <image key="46F5EC9FA574FAC0AF9B5F9361B7698E.png"/>
+      </images>
+    </page>
+    <page name="综合指标" ID="F433498C-C996-E611-84ED-68A86D1373AA" expanded="True" code="mhn9haODXg" thumbCode="mhn9haODXg" status="psWhite">
+      <images>
+        <image key="03177E54DFC0AF93F6A3275D373A2765.png"/>
+        <image key="DBBB9CFE49AA3FD319E0639E1C35E91F.png"/>
+      </images>
+    </page>
+    <page name="应用" ID="36490330-5D9E-E611-9091-B8E8564935B6" expanded="True" code="H49aQoS9JT" thumbCode="H49aQoS9JT" status="psWhite"/>
+  </modules>
+  <masters/>
+  <images>
+    <image key="F5BCC0E46D3B52919F46E8F8800384C2.png"/>
+    <image key="A4D875DB803037623AE2D6B56FABF4A5.png"/>
+    <image key="BA92F969E45E0E53A5F00CBB86B10254.png"/>
+    <image key="2EFEA12B020952BA769F79BB3415B680.png"/>
+    <image key="4CBDEF0CF781DB61A477EF9A88EB50C0.png"/>
+    <image key="F40945AC69CFE9B920DA28FC843A38E2.png"/>
+    <image key="A74F5CB40EFFCB1EF68D65B9998C7E4C.png"/>
+    <image key="7EAAF912CA62F0E831395227247E4959.png"/>
+    <image key="0A3B29F18891E9A454D4726A5B27F7C8.png"/>
+    <image key="3505AF051EC47A7BAFEF0C68275A7F7C.png"/>
+    <image key="1A1D01E0E5E571722A46562BE9063886.png"/>
+    <image key="35821ED8ACD4A6145830C70D85AC4345.png"/>
+    <image key="E3A2DF696C7B88C818B6E2BC0F203FAE.png"/>
+    <image key="FC01F9FD03C023F82FE02261EC59A0C1.png"/>
+    <image key="B38B3860E67D13A6B30469274B86536B.png"/>
+    <image key="2CD6C6710F1F0063786C8A5A4DBD3B8F.png"/>
+    <image key="6E61F118E8C6E9CFE86F9CD7FD672A61.png"/>
+    <image key="3C02E31B5B0E823C2D1FC504FFCF9B56.png"/>
+    <image key="ED050722C4FDDCBEA7034C5512EA0CE8.png"/>
+    <image key="A754A0D9E98F451A47E0ECA449A26505.png"/>
+    <image key="8091EEBFA6927AB6B084C42D636CC74D.png"/>
+    <image key="0353089221365A082EE1A239BBE51C82.png"/>
+    <image key="7BB9DC157BEB82575A52FADC1FFACAF7.png"/>
+    <image key="CB8DE8660D18E6CB5F7587DB34621FAA.png"/>
+    <image key="931D50A202A30AAB2E00116D069D9D52.png"/>
+    <image key="AA4EAEABAD1F79633938FDAE3218F228.png"/>
+    <image key="D8B6DED918F7722DF64686D681EEBD93.png"/>
+    <image key="98FAE145BCFAE1DC2629773AF4904B86.png"/>
+    <image key="B050AABF5FD37845E4285F23F08A75EC.png"/>
+    <image key="30511074C0D27E814A442EBC9D3146B1.png"/>
+    <image key="5419745CD2DB26B031BD3E2ABFA346F9.png"/>
+    <image key="B410D914DB162BB37327E97A2FF5146F.png"/>
+    <image key="5D2639CF4EEEAF02F8CABFE644467155.png"/>
+    <image key="DEFAE6940864312CAE7A1D09AE04AC10.png"/>
+    <image key="6149CABDB585B77E9FBE2C965B4FA910.png"/>
+    <image key="F2572A0AB4CDAB87341A44CCE978A032.png"/>
+    <image key="C77F89AFB6C17C3BDE8422BB0CFDC5D2.png"/>
+    <image key="D8451211463608A629C942D7EE84CA8F.png"/>
+    <image key="A4D34E7233A0CF61F740BACBF6BF1B80.png"/>
+    <image key="0C7FFC8605DD6353051A3E2BCC91F8C5.png"/>
+    <image key="32C99A74068AA61B0BD3BC1512D73D38.png"/>
+    <image key="20FDD9BDB82947436BEEA88B3CF48170.png"/>
+    <image key="A44344A7BB3F541EF20CB6C0E6640A94.png"/>
+    <image key="33E6A2FB2732E6A7056194B505DEFCC3.png"/>
+    <image key="E6A3820938014C83BC568326677FCE0F.png"/>
+    <image key="2408E9FBD1CD92E08BEE9878C11B8E1C.png"/>
+    <image key="346320E864530CC52B2D10C2E6872521.png"/>
+    <image key="46F5EC9FA574FAC0AF9B5F9361B7698E.png"/>
+    <image key="03177E54DFC0AF93F6A3275D373A2765.png"/>
+    <image key="37663FD731496B9C1AE793442FBE1AD9.png"/>
+    <image key="0CC22B20B049044501FE6291C3D87F8E.png"/>
+    <image key="3AF82FD1416248AD072F2D991C3AA8A2.png"/>
+    <image key="DBBB9CFE49AA3FD319E0639E1C35E91F.png"/>
+    <image key="A1CA76EF95CB87B06525803677D844CC.png"/>
+    <image key="06E14F0201477BCF0D9E0EF7C91451C9.png"/>
+    <image key="2E9610B4414D6B85D6C1CC9A53A57008.png"/>
+  </images>
+  <others>
+    <favoriteColors/>
+  </others>
+</project>

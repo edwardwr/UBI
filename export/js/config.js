@@ -1,0 +1,1 @@
+window.config = {'showControlPanel': false, 'iOSGuide': true, 'showQRCode': false, 'shell': 'iPhone', 'background': '#C4C4C4', 'alwaysShowLinks': false, 'hoverShowLinks': true, 'hoverShowRemarks': true, 'showComments': true};

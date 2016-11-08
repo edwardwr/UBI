@@ -1,0 +1,105 @@
+﻿<mockup version="4.2" platform="MtMobile" defaultW="375" defaultH="667" from="FmLocal" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" minAllowVersion="4.1" ID="DA031CDD-C796-E611-84ED-68A86D1373AA" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="7C6C67E1-C796-E611-84ED-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="0" w="375" h="65" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="48ED637F-C796-E611-84ED-68A86D1373AA" linkType="ltPageLink" isApplyIncludePage="False" title="%E4%BF%9D%E5%85%BB%E6%8F%90%E9%86%92">
+            <area shape="0" alt="" ID="{4C7467E1-C796-E611-84ED-68A86D1373AA}" coords="(0,0,375,65)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{287567E1-C796-E611-84ED-68A86D1373AA}" coords="(0,0,375,65)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>B410D914DB162BB37327E97A2FF5146F.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="1C3CD5EF-C796-E611-84ED-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="65" w="375" h="181" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{A03FD5EF-C796-E611-84ED-68A86D1373AA}" coords="(0,0,375,181)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{7240D5EF-C796-E611-84ED-68A86D1373AA}" coords="(0,0,375,181)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>5D2639CF4EEEAF02F8CABFE644467155.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="2E3DF2D5-2C99-E611-8BAD-68A86D1373AA" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="613" w="375" h="54" measuredW="150" measuredH="150" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="76C3B777-E195-E611-94F5-68A86D1373AA" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+            <area shape="0" alt="" ID="{5840F2D5-2C99-E611-8BAD-68A86D1373AA}" coords="(0,0,375,54)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{0C41F2D5-2C99-E611-8BAD-68A86D1373AA}" coords="(0,0,375,54)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>A1CA76EF95CB87B06525803677D844CC.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
